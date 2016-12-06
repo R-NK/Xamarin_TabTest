@@ -2468,7 +2468,7 @@ namespace TabTest.Droid
 			public const int notification_template_icon_bg = 2130837710;
 			
 			// aapt resource value: 0x7f0200cd
-			public const int WaterTransportation96 = 2130837709;
+			public const int PartlyCloudyDay96 = 2130837709;
 			
 			static Drawable()
 			{

@@ -6,7 +6,7 @@
             xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps"
             Title="TabbedPage">
 
-    <ContentPage>
+    <ContentPage Icon="Globe96.png">
         <StackLayout VerticalOptions="Fill">
             <maps:Map
                 x:Name="MyMap"
